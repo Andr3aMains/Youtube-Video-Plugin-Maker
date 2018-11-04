@@ -1,0 +1,24 @@
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\bin\Debug\Youtube Video Plugin Maker.exe.config
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\bin\Debug\Youtube Video Plugin Maker.exe
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\bin\Debug\Youtube Video Plugin Maker.pdb
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\bin\Debug\Youtube Video Plugin Maker.xml
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.vbprojAssemblyReference.cache
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\obj\Debug\Youtube_Video_Plugin_Maker.Form1.resources
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\obj\Debug\Youtube_Video_Plugin_Maker.Resources.resources
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.vbproj.GenerateResource.cache
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.vbproj.CoreCompileInputs.cache
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.exe
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.xml
+C:\Users\YggDraz1l\AppData\Local\Temporary Projects\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.pdb
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\bin\Debug\Youtube Video Plugin Maker.exe.config
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\bin\Debug\Youtube Video Plugin Maker.exe
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\bin\Debug\Youtube Video Plugin Maker.pdb
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\bin\Debug\Youtube Video Plugin Maker.xml
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.vbprojAssemblyReference.cache
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\obj\Debug\Youtube_Video_Plugin_Maker.Form1.resources
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\obj\Debug\Youtube_Video_Plugin_Maker.Resources.resources
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.vbproj.GenerateResource.cache
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.vbproj.CoreCompileInputs.cache
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.exe
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.xml
+C:\Users\YggDraz1l\source\repos\Youtube Video Plugin Maker\Youtube Video Plugin Maker\obj\Debug\Youtube Video Plugin Maker.pdb
